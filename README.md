@@ -1,7 +1,7 @@
 # HaluatkoMiljonaariksi-botti
 
-Asenna discord.js ja MondoDB moduulit seuraavilla komennoilla:
+Asenna discord.js ja MondoDB moduulit:
 
-npm install discord.js
-npm install mongoose
-npm install node-fetch
+discord.js
+mongoose
+node-fetch
